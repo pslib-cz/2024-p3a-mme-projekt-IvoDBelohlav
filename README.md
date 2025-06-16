@@ -80,4 +80,7 @@ Projekt úspěšně splnil všechny zadané požadavky:
 Projekt byl úspěšně dokončen a splnil všechny stanovené cíle.  
 Výsledný stojánek je funkční, estetický a odráží schopnosti v oblasti 3D modelování, tisku i práce se dřevem.  
 Zároveň dokumentuje schopnost převést digitální návrh do reality a efektivně kombinovat více technologií.
-
+#Material
+pla, cca 100g
+cena cca 70kč.
+čas stravený na projektu 5h.
